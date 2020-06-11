@@ -1,0 +1,19 @@
+{
+  "name": "PeanutsJS",
+  "version": "2.0.0",
+  "description": "MVC Nodejs server. Minimal and expandable.",
+  "main": "01-main.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "author": "Alfredo Eleazar Orozco Quesada <ae.orozco10@uniandes.edu.co>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
