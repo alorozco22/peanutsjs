@@ -15,7 +15,7 @@ const dotenv = require('dotenv').config();
 
 
 /* Consulting environment variables */
-const port = process.env.PORT;
+const port = process.env.PORT || 4004;
 
 
 
