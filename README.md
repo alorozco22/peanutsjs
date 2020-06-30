@@ -18,6 +18,8 @@
 
 ## Prerequisites
 
+**Note:** This is a version under development of PeanutsJS. Documentation is still under refinement. For the current stable version please visit [PeanutsJS stable](https://github.com/alorozco22/peanutsjs-stable).
+
 Before locally developing your server with *PeanutsJS* check that you have installed:
 
 * [Node.js](https://nodejs.org/)
